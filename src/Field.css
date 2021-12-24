@@ -1,0 +1,30 @@
+.Field {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.End{
+    padding: 50px;
+    background-color:  rgb(228, 216, 114);
+    
+}
+
+
+.Start{
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(228, 216, 114);
+   
+}
+
+.green-light{
+    padding: 50px;
+    background: rgb(33, 112, 33);
+    padding-top: 500px;
+}
+.red-light{
+    padding: 50px;
+    background: rgb(141, 19, 19);
+    padding-top: 500px;
+}

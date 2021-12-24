@@ -1,0 +1,25 @@
+.Field {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.Field .End{
+    padding: 50px;
+    background-color: green;
+    
+}
+
+.Field .Middle{
+    padding: 50px;
+    background-color: rgba(240, 222, 140, 0.945);
+    padding-top: 60vmin;
+    
+}
+
+.Field .Start{
+    text-align: center;
+    padding: 50px;
+    background-color: green;
+    
+}

@@ -1,0 +1,7 @@
+#Player {
+  position: absolute;
+  z-index: 1;
+  padding: 15px;
+  background-color: rgb(6, 117, 136);
+  
+}

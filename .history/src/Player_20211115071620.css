@@ -1,0 +1,10 @@
+.Player {
+  position: absolute;
+  padding-left: 15px;
+  padding-top: 35px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  margin-bottom: 10px;
+  background-color: rgb(6, 117, 136);
+  
+}
